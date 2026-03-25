@@ -1,8 +1,9 @@
-api_version = "2025-10"
+api_version = "2025-07"
 
 [[extensions]]
 name = "Manage subscription link"
 handle = "thank-you-page"
+uid = "d4e07690-26a8-840b-780a-a848b91466540cbd3217"
 type = "ui_extension"
 
 [[extensions.targeting]]

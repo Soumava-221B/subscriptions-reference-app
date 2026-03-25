@@ -1,6 +1,7 @@
-api_version = "2025-01"
+api_version = "2025-07"
 
 [[extensions]]
+uid = "f432937d-db5e-51e1-8a3a-f29326c1ed73ad3c0d75"
 type = "ui_extension"
 name = "Management page"
 handle = "buyer-subscriptions"

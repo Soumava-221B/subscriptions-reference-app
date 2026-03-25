@@ -1,6 +1,7 @@
 [[extensions]]
 name = "Subscriptions"
 handle = "buyer-subscriptions-collection"
+uid = "1d350d81-ef53-6d30-9357-ebcb70214ec2a664f8ef"
 type = "editor_extension_collection"
 
 # Add the handles of the extensions you want in this collection here

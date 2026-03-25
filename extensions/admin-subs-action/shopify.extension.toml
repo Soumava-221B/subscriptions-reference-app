@@ -1,9 +1,10 @@
-api_version = "unstable"
+api_version = "2025-07"
 
 [[extensions]]
 # Change the merchant-facing name of the extension in locales/en.default.json
 name = "t:name"
 handle = "admin-subs-action"
+uid = "02befe31-3495-f13f-753e-67bf5509342dd4fe56ef"
 type = "ui_extension"
 
 [extensions.capabilities]

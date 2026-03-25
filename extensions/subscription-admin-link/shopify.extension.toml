@@ -1,4 +1,5 @@
 [[extensions]]
+uid = "3cdc9003-2415-c096-981d-d88b5ee3b13e1b2e1225"
 type = "subscription_link_extension"
 name = "subscription-admin-link"
 handle = "subscription-admin-link"
